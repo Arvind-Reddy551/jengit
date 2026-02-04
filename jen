@@ -1,7 +1,6 @@
 #!bin/bash
 echo "jenjins and git source code management tool"
 else "not jenkins"
-
 hello
 iam learning the git and git hub and git hub copolite
 kubernetes
@@ -11,7 +10,7 @@ argocd
 grafana
 monitoring
 tools
-tobe done
+tobe
 SRE site Reliability Engineer
 development engineer  value operation present solutions
 devOps
