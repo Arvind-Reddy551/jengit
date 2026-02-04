@@ -1,3 +1,7 @@
+#!bin/bash
+echo "jenjins and git source code management tool"
+else "not jenkins"
+
 hello
 iam learning the git and git hub and git hub copolite
 kubernetes
